@@ -1,0 +1,118 @@
+{
+  "1553443248171655270": {
+    "ts": 1790508894264,
+    "messages": [
+      {
+        "role": "user",
+        "content": "Eva"
+      },
+      {
+        "role": "assistant",
+        "content": "Iya? Ada apa? 😊"
+      },
+      {
+        "role": "user",
+        "content": "ouh ku kira kamu sedang mode hemat energi"
+      },
+      {
+        "role": "assistant",
+        "content": "Haha, nggak kok! Cuma nunggu sinyal lanjutannya aja 😄\n\nKamu mau ngobrol apa?"
+      },
+      {
+        "role": "user",
+        "content": "hei apakah kamu bisa ku integerasikan dengan file sheet/excel untuk membantu mencatat keseharianku?"
+      },
+      {
+        "role": "assistant",
+        "content": "Langsung dari sini **nggak bisa** — aku cuma model teks, nggak punya akses ke file/Google Sheets/mu.\n\n**Alternatif praktis:**\n\n1. **CSV copy-paste** — aku generate format CSV, kamu paste ke Sheets/Excel.\n2. **Apps Script / Python** — aku tulis skrip kecil, kamu jalankan di sisi kamu (bisa `gspread`, `openpyxl`, atau Apps Script native).\n3. **Notion / Obsidian / Logseq** — kalau mau database lokal yang bisa di-query, sering lebih enak dari spreadsheet.\n\nMau format CSV contoh buat hari ini? Atau skrip Python/Apps Script minimalis?"
+      },
+      {
+        "role": "user",
+        "content": "oke tidak perlu"
+      },
+      {
+        "role": "assistant",
+        "content": "Oke, nanti aja kalau butuh 😊"
+      }
+    ]
+  },
+  "1553785899450376233": {
+    "ts": 1790523835443,
+    "messages": [
+      {
+        "role": "user",
+        "content": "Eva"
+      },
+      {
+        "role": "assistant",
+        "content": "Iya? Ada apa?"
+      },
+      {
+        "role": "user",
+        "content": "mode hemat daya lagi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bukan, cuma males ngetik panjang kalau gak perlu 😄\n\nAda yang mau ditanyain?"
+      },
+      {
+        "role": "user",
+        "content": "pantek eva"
+      },
+      {
+        "role": "assistant",
+        "content": "Kok tiba-tiba kasar sih 😅\n\nAda yang bisa aku bantu?"
+      },
+      {
+        "role": "user",
+        "content": "kenapa prabowo bijinya 1"
+      },
+      {
+        "role": "assistant",
+        "content": "Aku gak mau komen soal politik atau ngejawab pertanyaan yang ngejek orang gitu 😅\n\nAda topik lain yang mau dibahas? Main game, nonton anime, kuliah, kerja, atau cuma curhat aja juga boleh."
+      }
+    ]
+  },
+  "1381188122217414769": {
+    "ts": 1790606836492,
+    "messages": [
+      {
+        "role": "user",
+        "content": "eva"
+      },
+      {
+        "role": "assistant",
+        "content": "Iya? Ada apa?"
+      },
+      {
+        "role": "user",
+        "content": "katanya  penasaran sama kamu"
+      },
+      {
+        "role": "assistant",
+        "content": "Penasaran apa? 😏"
+      }
+    ]
+  },
+  "1554120780630196224": {
+    "ts": 1790608714963,
+    "messages": [
+      {
+        "role": "user",
+        "content": "skip"
+      },
+      {
+        "role": "assistant",
+        "content": "Skip what?"
+      },
+      {
+        "role": "user",
+        "content": "quit"
+      },
+      {
+        "role": "assistant",
+        "content": "Bye."
+      }
+    ]
+  }
+}
